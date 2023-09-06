@@ -1,6 +1,6 @@
 # dungeonManiac
 
-### A simple 2D Turn-based RPG made in combination with C++ and SDL2 as part of a summer course, which touched on the following C++ and SDL2 concepts: 
+### A simple 2D Turn-based RPG made in combination with C++ and SDL2 as part of a summer advanced game programming course, which touched on the following C++ and SDL2 concepts: 
 
 ### 1) variables and math
 
